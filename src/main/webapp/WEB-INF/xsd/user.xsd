@@ -1,0 +1,5 @@
+<sws:dynamic-wsdl id="user"
+    portTypeName="user"
+    locationUri="http://localhost:8080/ordersService/">
+  <sws:xsd location="user.xsd"/>
+</sws:dynamic-wsdl>
